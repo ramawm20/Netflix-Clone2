@@ -26,6 +26,7 @@ function Home(){
 
     return(
         <>  
+        <h1 style={{color:'whitesmoke'}}>All Movies</h1>
         <MovieList movie={movie}/>     
         </>
     )
